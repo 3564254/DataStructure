@@ -1,0 +1,7 @@
+﻿  ex4_2.c
+C:\Users\jwhwa\source\repos\LinkedList2\LinkedList2\ex4_2.c(15,20): warning C4133: '함수': 'char [3]'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\jwhwa\source\repos\LinkedList2\LinkedList2\ex4_2.c(24,20): warning C4133: '함수': 'char [3]'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+  LinkedList.c
+C:\Users\jwhwa\source\repos\LinkedList2\LinkedList2\LinkedList.c(97,45): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  코드를 생성하고 있습니다...
+  LinkedList2.vcxproj -> C:\Users\jwhwa\source\repos\LinkedList2\x64\Debug\LinkedList2.exe
