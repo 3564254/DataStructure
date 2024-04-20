@@ -1,0 +1,6 @@
+﻿  CircularLinkedList.c
+  ex4_3.c
+C:\Users\jwhwa\source\repos\LinkedList3\LinkedList3\ex4_3.c(8,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jwhwa\source\repos\LinkedList3\LinkedList3\ex4_3.c(25,18): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  LinkedList3.vcxproj -> C:\Users\jwhwa\source\repos\LinkedList3\x64\Debug\LinkedList3.exe
